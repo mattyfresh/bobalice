@@ -1,4 +1,4 @@
-bobalice
-========
+basics
+======
 
-this is a weird thing
+Basics: HTML, CSS, jQuery, Git, Javascript, etc
